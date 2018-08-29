@@ -1,6 +1,6 @@
 /**
 * FILE: knn_mpi_no_communications.c
-* THMMY, 7th semester, Parallel and Distributed Systems: 2st assignment
+* THMMY, 7th semester, Parallel and Distributed Systems: 2nd assignment
 * Distributed KNN algorithm.
 * This implementation focuses on the time spent on calculations only.
 * Author:
