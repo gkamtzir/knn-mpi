@@ -1,6 +1,6 @@
 /**
 * FILE: knn_mpi_mp.c
-* THMMY, 7th semester, Parallel and Distributed Systems: 2st assignment
+* THMMY, 7th semester, Parallel and Distributed Systems: 2nd assignment
 * Distributed KNN algorithm with OpenMP.
 * Author:
 *   Kamtziridis Georgios, 8542, gkamtzir@auth.gr
